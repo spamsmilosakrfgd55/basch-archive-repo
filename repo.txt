@@ -1,0 +1,4 @@
+# NAME | VERSION | URL | SHA256 | TARGET_PATH | DESCRIPTION
+nano | 7.2 | https://github.com/user/repo/releases/download/v1/nano.zip | e3b0c442... | bin | Advanced text editor for terminal
+busybox | 1.36.1 | https://github.com/user/repo/releases/download/v1/bb.zip | f1a2b3c4... | bin | The Swiss Army Knife of embedded systems
+cmatrix | 2.0 | https://github.com/user/repo/releases/download/v1/cm.zip | d9e8f7a6... | bin | Matrix digital rain effect
