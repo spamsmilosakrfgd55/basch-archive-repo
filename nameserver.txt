@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/uzivatel/basch-repo@main/repository.txt
+https://raw.githubusercontent.com/spamsmilosakrfgd55/basch-archive-repo/refs/heads/main/repo.txt
