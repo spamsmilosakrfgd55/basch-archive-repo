@@ -1,3 +1,4 @@
 # NAME | VERSION | URL | SHA256 | DESCRIPTION
 nano | 7.2 | https://github.com/spamsmilosakrfgd55/basch-archive-repo/releases/download/content01/nano.tar.gz | e16773765f5c4d209c55e81d304bbc0e223f9e5737a3ed01dd792509d7c4db42 | Advanced text editor
 micro | 2.0.15 | https://github.com/spamsmilosakrfgd55/basch-archive-repo/releases/download/content01/micro.tar.gz | 3af99f6bc2646491f265d3256a4c40025ad9c6c3d2e6bac0384b281fdf3ac2e8 | Text editor
+python | 3.13.13 | https://github.com/spamsmilosakrfgd55/basch-archive-repo/releases/download/content01/python.tar.gz | 48598c082fd4a0cdfb6bdbc5a895b86cfc5e652b0ec3cee3ad4de21dc6e7f1f9 | Python3 programming language
